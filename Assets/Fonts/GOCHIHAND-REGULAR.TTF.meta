@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e579c198ddadc664cb6c96b6f28a367e
+timeCreated: 1592464375
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gochi Hand
+  fontNames:
+  - Gochi Hand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
